@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRwlVl6dPU3DkdGLs7gYxHDyHVePS/JyppHEJp5u7Fz1TW69C5h40T7zEiPHUpH17c3FgNMU/G2Sl4vButUYxA==",
+  "success": true,
+  "projectFilePath": "D:\\praktica\\анимации\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rrein\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="imag\1.jpg" />
+    <None Remove="imag\2.jpg" />
+    <None Remove="imag\a.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WpfAnimatedGif" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="imag\1.jpg" />
+    <Resource Include="imag\2.jpg" />
+    <Resource Include="imag\a.jpg" />
+  </ItemGroup>
+
+</Project>
